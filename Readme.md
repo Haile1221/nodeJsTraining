@@ -1,0 +1,1 @@
+CORS is used to enable cross-origin requests, allowing your Express.js server to accept requests from domains other than its own. This is commonly used in web development to allow frontend applications to communicate with backend APIs hosted on different domains.
