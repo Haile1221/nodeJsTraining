@@ -1,9 +1,13 @@
 
-
 Node.js Express.js MySQL API
+
+
 This repository contains code for a RESTful API built with Express.js to interact with a MySQL database. It provides endpoints to create necessary tables, insert single or multiple product information into the database, and retrieve data.
 
 Technologies Used
+
+
+
 Node.js: A JavaScript runtime built on Chrome's V8 JavaScript engine.
 Express.js: A web application framework for Node.js used to build the API endpoints.
 MySQL: A popular open-source relational database management system used for data storage and retrieval.
@@ -15,11 +19,15 @@ Installation
 Clone the repository:
 
 
-git clone <repository_url>
+git clone https://github.com/Haile1221/nodeJsTraining.git
+
+
 Install dependencies:
+
 
 npm install
 Configure MySQL connection:
+
 
 Update the MySQL connection settings in the code to match your database configuration.
 Ensure that MySQL server is running and accessible.
@@ -50,8 +58,6 @@ Note
 Ensure proper configuration of MySQL database connection before using the API.
 Always handle errors gracefully and validate input data to prevent security vulnerabilities.
 
-Author
-[Haile]
+Author: Haile Zerfu
 
-License
-This project is licensed under the MIT License.
+
